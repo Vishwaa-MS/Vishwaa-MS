@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **MEN Stack and Machine Learning Projects**
 
-- 🌱 I’m currently learning **backend technologies**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [https://vishwaa-ms.github.io/Portfolio-Vishwaa/](https://vishwaa-ms.github.io/Portfolio-Vishwaa/)
 
-- 💬 Ask me about **MEN stack and ML, Dl, NN**
+- 💬 Ask me about **MEN stack and ML, DL, NN**
 
 - 📫 How to reach me **vishwaams.03@gmail.com**
 
