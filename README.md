@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **MEN Stack and Machine Learning**
 
-  [ON HALT DUE TO UNIVERSITY EXAMS]
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 My personal portfolio [website](https://vishwaa-ms.github.io/Portfolio-Vishwaa/)
