@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwaa-ms&label=Profile%20views&color=0e75b6&style=flat" alt="vishwaa-ms" /> </p>
 
-- 🔭 I’m currently working on **MEN Stack and Machine Learning**
+- 🔭 I’m currently working on **MERN Stack Projects**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 My personal portfolio [website](https://vishwaa-ms.github.io/Portfolio-Vishwaa/)
 
-- 💬 Ask me about **MEN stack and ML, DL, NN**
+- 💬 Ask me about **Backend Development and ML, DL, NN**
 
 - 📫 How to reach me **vishwaams.03@gmail.com**
 
