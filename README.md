@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 My personal portfolio [website](https://vishwaa-ms.github.io/Portfolio-Vishwaa/)
+- 👨‍💻 My personal portfolio [website](https://vishwaams.vercel.app)
 
 - 💬 Ask me about **Backend Development and ML, DL, NN**
 
